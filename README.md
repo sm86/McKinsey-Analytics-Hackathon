@@ -1,9 +1,5 @@
 # McKinsey-Analytics-Hackathon
 
-### Result
-Leaderboard rank: 48 <br>
-Evaluation metric(RMSE) = 8.035319
-
 ### Problem Statement
 
 ###### Mission
@@ -28,5 +24,8 @@ Then I tried creating seperate model for each junction and took average over all
 * Prophet R package
 * Average over more models as it helps in stablizing model during prediction on unseen data.
 
+### Result
+Leaderboard rank: 48 <br>
+Evaluation metric(RMSE) = 8.035319
 
-The hackathon is hosted on Analytics Vidya platform on Nov 18-19, 2017. [Link to hackathon](https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-hackathon/)
+This is coded as part of 24 hour hackathon. Hosted on Analytics Vidya platform on Nov 17-18, 2017. [Link to hackathon](https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-hackathon/)
