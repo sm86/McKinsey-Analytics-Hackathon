@@ -17,9 +17,9 @@ To predict traffic patterns in each of these four junctions for the next 4 month
 ### About my approach
 ##### Language used: R <br>
 ##### Architecture of Code
-Data preparation and Feature extraction in (Code)["https://github.com/sm86/McKinsey-Analytics-Hackathon/blob/master/DataPreparation.R"]<br>
-I have used XGBoost model based on few parameters here (Code)[https://github.com/sm86/McKinsey-Analytics-Hackathon/blob/master/XGBoostModel.R]<br>
-Then I tried creating seperate model for each junction and took average over all the models(Code)[https://github.com/sm86/McKinsey-Analytics-Hackathon/blob/master/Models.R]
+Data preparation and Feature extraction [Code](https://github.com/sm86/McKinsey-Analytics-Hackathon/blob/master/DataPreparation.R)<br>
+I have used XGBoost model based on few parameters here [Code](https://github.com/sm86/McKinsey-Analytics-Hackathon/blob/master/XGBoostModel.R)<br>
+Then I tried creating seperate model for each junction and took average over all the models [Code](https://github.com/sm86/McKinsey-Analytics-Hackathon/blob/master/Models.R)
 
 ##### Can be worked on
 * ARIMA time series models
